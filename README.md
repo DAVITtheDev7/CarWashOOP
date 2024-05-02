@@ -19,7 +19,7 @@ To use the Carwash Management System, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/DaviDM2005/CarWashOOP.git
+    https://github.com/DaviDM2005/CarWashOOP.git
     ```
 
 2. Compile the source code:
